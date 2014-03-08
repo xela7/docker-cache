@@ -1,6 +1,6 @@
 
 build:
-	docker build -t docker_cache_server_image github.com/GlobAllomeTree/docker-cache
+	docker build -t docker_cache_server_image github.com/xela7/docker-cache
 
 build-local:
 	docker build -t docker_cache_server_image .
